@@ -7,3 +7,4 @@ logs/
 MNIST data/
 saveit/
 MNIST_data/
+__pycache__/
