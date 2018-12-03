@@ -8,3 +8,4 @@ saveit/
 MNIST_data/
 __pycache__/
 py/
+*.pickle
