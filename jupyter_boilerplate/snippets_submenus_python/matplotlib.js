@@ -5,10 +5,11 @@ define({
             'name' : 'Setup for notebook',
             'snippet'  : [
                 'import numpy as np',
+                'import pandas as pd',
                 'import matplotlib.pyplot as plt',
                 '%matplotlib inline',
                 'import mpld3',
-                'mpld3.enable_botebook()'
+                'mpld3.enable_notebook()'
             ],
         },
         {
