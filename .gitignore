@@ -6,6 +6,7 @@ logs/
 MNIST data/
 saveit/
 MNIST_data/
+Test/
 __pycache__/
 py/
 *.pickle
