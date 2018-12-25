@@ -23,6 +23,7 @@ define({
                 '%matplotlib inline  ',
                 'style.use(\'fivethirtyeight\')',
                 'sns.set(style=\'whitegrid\',color_codes=True)',
+                'from scipy import stats #Analysis ',
                 '            ',
                 '#import the necessary modelling algos.',
                 '            ',
